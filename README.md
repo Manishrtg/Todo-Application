@@ -202,7 +202,3 @@ Here is some sample data already in the system:
 You can use these sample notes to test the API.
 
 ---
-
-** Conclusion**
-
-This application allows you to manage to-do notes using simple API requests. You can create, update, view, and delete notes easily. If you run into any issues or need further help, feel free to reach out!
