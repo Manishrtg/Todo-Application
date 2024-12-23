@@ -199,6 +199,3 @@ Here is some sample data already in the system:
 ]
 ```
 
-You can use these sample notes to test the API.
-
----
